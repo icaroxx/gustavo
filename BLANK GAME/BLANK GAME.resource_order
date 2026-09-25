@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Object1_1","order":5,"path":"objects/Object1_1/Object1_1.yy",},
+    {"name":"Object1","order":2,"path":"objects/Object1/Object1.yy",},
+    {"name":"Object2_1","order":7,"path":"objects/Object2_1/Object2_1.yy",},
+    {"name":"Object2","order":3,"path":"objects/Object2/Object2.yy",},
+    {"name":"Room1_1","order":9,"path":"rooms/Room1_1/Room1_1.yy",},
+    {"name":"Sprite2_1","order":6,"path":"sprites/Sprite2_1/Sprite2_1.yy",},
+    {"name":"Sprite2","order":4,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"tuntunzinhodeangola","order":1,"path":"sprites/tuntunzinhodeangola/tuntunzinhodeangola.yy",},
+    {"name":"tuntunzinhodeangola1","order":8,"path":"sprites/tuntunzinhodeangola1/tuntunzinhodeangola1.yy",},
+  ],
+}
